@@ -1,0 +1,7 @@
+<resources>
+    <string name="Banc">Banco de Dados</string>
+    <string name="N">Nome</string>
+    <string name="E">Endereço</string>
+    <string name="B">Bairro</string>
+    <string name="C">Cep</string>
+</resources>
